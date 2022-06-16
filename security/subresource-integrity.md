@@ -5,7 +5,10 @@
 An example:
 
 ```
-<script src="https://code.jquery.com/jquery-3.6.0.slim.js" integrity="sha256-HwWONEZrpuoh951cQD1ov2HUK5zA5DwJ1DNUXaM6FsY=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.slim.js"
+        integrity="sha256-HwWONEZrpuoh951cQD1ov2HUK5zA5DwJ1DNUXaM6FsY="
+        crossorigin="anonymous">
+</script>
 ```
 
 There is a handy [SRI Hash Generator](https://www.srihash.org/) that can be used to quickly generate an Integrity hash, or you can do it manually with the following shell command:

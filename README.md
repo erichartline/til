@@ -8,9 +8,14 @@ I shamelessly stole this idea from [jbranchaud/til](https://github.com/jbranchau
 
 ### Categories
 
+- [Programming Concepts](#programming-concepts)
 - [Security](#security)
 
 ---
+
+### Programming Concepts
+
+- [Functional Programming](programming/functional-programming.md)
 
 ### Security
 
